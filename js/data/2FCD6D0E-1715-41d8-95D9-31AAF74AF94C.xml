@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.1.1.1:1", "", "«cloud» DB Server", "EARoot/EA1/EA1/EA1/EA13.html", "9C2BCC23-C_cloud.png", "E61", "0", "", "Node0","{28E495DA-BD85-4b75-98EC-768B104226BB}");
+tocTab[tocTab.length] = new Array("0.1.1.1:2", "", "«cloud» Nube", "EARoot/EA1/EA1/EA1/EA14.html", "9C2BCC23-C_cloud.png", "E47", "0", "", "Node0","{C0A1614B-E599-4976-A53D-011E40CA6408}");
+tocTab[tocTab.length] = new Array("0.1.1.1:3", "", "PC", "EARoot/EA1/EA1/EA1/EA15.html", "9.png", "E44", "0", "", "Node0","{0925487B-98BA-43ff-BE8F-26ECA5D1AF0D}");
+tocTab[tocTab.length] = new Array("0.1.1.1:4", "", "User", "EARoot/EA1/EA1/EA1/EA16.html", "6.png", "E43", "0", "", "Actor0","{745BFA87-EFF1-4c5f-9C73-6314A356A364}");
+tocTab[tocTab.length] = new Array("0.1.1.1:5", "", "Operating System", "EARoot/EA1/EA1/EA1/EA17.html", "10.png", "E45", "E44", "", "Component0","{518DC483-B35D-43b3-8ECA-80D774C82FFE}");
+tocTab[tocTab.length] = new Array("0.1.1.1:7", "", "API Gateway", "EARoot/EA1/EA1/EA1/EA19.html", "10.png", "E53", "E47", "", "Component0","{8A5458A1-C76E-4d79-8BCD-6C00378E7172}");
+tocTab[tocTab.length] = new Array("0.1.1.1:8", "", "Back-end", "EARoot/EA1/EA1/EA1/EA20.html", "10.png", "E54", "E47", "", "Component0","{07FF5413-AEE9-47a7-BD9A-1238217DE5EA}");
+tocTab[tocTab.length] = new Array("0.1.1.1:9", "", "Database Interface", "EARoot/EA1/EA1/EA1/EA21.html", "10.png", "E55", "E47", "", "Component0","{8DAFBBBF-7F24-4689-B890-983755C29AFA}");
+tocTab[tocTab.length] = new Array("0.1.1.1:10", "", "Front-end", "EARoot/EA1/EA1/EA1/EA22.html", "10.png", "E51", "E47", "", "Component0","{D6569DBE-C9C5-45fa-B683-0D0D3BE43140}");
+tocTab[tocTab.length] = new Array("0.1.1.1:13", "", "DB Server", "EARoot/EA1/EA1/EA1/EA25.html", "9.png", "E62", "E61", "", "Node0","{9DD1B98E-293A-402d-BB34-210BE069C1E9}");
+tocTab[tocTab.length] = new Array("0.1.1.1:6", "", "Web Browser", "EARoot/EA1/EA1/EA1/EA18.html", "10.png", "E46", "E45", "", "Component0","{B7E3DA50-BCE5-4f38-9B34-3D21B4F73C87}");
+tocTab[tocTab.length] = new Array("0.1.1.1:11", "", "API", "EARoot/EA1/EA1/EA1/EA23.html", "112.png", "E56", "E53", "", "ProvidedInterface0","{E487DEA5-896E-402e-9523-54613E705D39}");
+tocTab[tocTab.length] = new Array("0.1.1.1:12", "", "API", "EARoot/EA1/EA1/EA1/EA24.html", "112.png", "E57", "E54", "", "ProvidedInterface0","{C2B59C2E-D41C-42c6-8718-2E13CC792C81}");
+tocTab[tocTab.length] = new Array("0.1.1.1:14", "", "PostgreSQL", "EARoot/EA1/EA1/EA1/EA26.html", "10.png", "E63", "E62", "", "Component0","{2323BCCD-4800-4809-A9AF-FC1250EE5C46}");

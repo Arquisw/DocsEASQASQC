@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.2.1.1.1:1", "", "ArquiSW", "EARoot/EA2/EA1/EA1/EA1/EA34.html", "178.png", "6", "0", "", "Component diagram0","{3628E991-96CB-4e8d-81A5-AD38F3919BB5}");
+tocTab[tocTab.length] = new Array("0.2.1.1.1.1", "1", "Componentes", "EARoot/EA2/EA1/EA1/EA1/EA1/EA38.html", "4.png", "", "", "{B1F3EA1F-EBB8-41de-BD7D-B8D76FC56754}", "Package");
